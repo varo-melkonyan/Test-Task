@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hats {
+    top: 0;
+}
+
+.breeds {
+    top: 5vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+}
+.categories {
+    margin-left: 50px;
+}

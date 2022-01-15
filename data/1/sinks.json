@@ -1,0 +1,38 @@
+{
+    "categories": {
+        "id":14,
+        "name":"sinks"
+    },
+    "breeds": [
+        {
+            "id":"8ls","url":"https://cdn2.thecatapi.com/images/8ls.jpg","width":2448,"height":3264
+        },
+        {
+            "id":"8lu","url":"https://cdn2.thecatapi.com/images/8lu.jpg","width":3488,"height":2616
+        },
+        {
+            "id":"8op","url":"https://cdn2.thecatapi.com/images/8op.jpg","width":1600,"height":1200
+        },
+        {
+            "id":"8pq","url":"https://cdn2.thecatapi.com/images/8pq.jpg","width":2700,"height":1797
+        },
+        {
+            "id":"8ob","url":"https://cdn2.thecatapi.com/images/8ob.jpg","width":500,"height":375
+        },
+        {
+            "id":"8p8","url":"https://cdn2.thecatapi.com/images/8p8.jpg","width":500,"height":667
+        },
+        {
+            "id":"8rj","url":"https://cdn2.thecatapi.com/images/8rj.jpg","width":917,"height":1024
+        },
+        {
+            "id":"MTc5MTY4MA","url":"https://cdn2.thecatapi.com/images/MTc5MTY4MA.jpg","width":612,"height":612
+        },
+        {
+            "id":"MTc5MzIwNQ","url":"https://cdn2.thecatapi.com/images/MTc5MzIwNQ.jpg","width":2800,"height":2090
+        },
+        {
+            "id":"MTc5NDg0Ng","url":"https://cdn2.thecatapi.com/images/MTc5NDg0Ng.jpg","width":600,"height":450
+        }
+    ]
+}

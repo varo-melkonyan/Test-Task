@@ -1,0 +1,39 @@
+{
+    "categories":
+        {
+            "id": 5,
+            "name":"boxes"
+        },
+    "breeds": [
+        {
+            "id":"c3","url":"https://cdn2.thecatapi.com/images/c3.jpg","width":1200,"height":1600
+        },
+        {
+            "id":"f4","url":"https://cdn2.thecatapi.com/images/f4.jpg","width":1280,"height":855
+        },
+        {
+            "id":"h8","url":"https://cdn2.thecatapi.com/images/h8.jpg","width":540,"height":720
+        },
+        {
+            "id":"hn","url":"https://cdn2.thecatapi.com/images/hn.jpg","width":1200,"height":1600
+        },
+        {
+            "id":"ho","url":"https://cdn2.thecatapi.com/images/ho.jpg","width":3456,"height":2304
+        },
+        {
+            "id":"5jf","url":"https://cdn2.thecatapi.com/images/5jf.jpg","width":500,"height":335
+        },
+        {
+            "id":"5jm","url":"https://cdn2.thecatapi.com/images/5jm.jpg","width":480,"height":360
+        },
+        {
+            "id":"5jq","url":"https://cdn2.thecatapi.com/images/5jq.jpg","width":320,"height":224
+        },
+        {
+            "id":"5k0","url":"https://cdn2.thecatapi.com/images/5k0.jpg","width":972,"height":976
+        },
+        {
+            "id":"5kk","url":"https://cdn2.thecatapi.com/images/5kk.jpg","width":520,"height":347
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "categories": {
+        "id":2,
+        "name":"space"
+    },
+    "breeds": [
+        {
+            "id":"1c","url":"https://cdn2.thecatapi.com/images/1c.gif","width":500,"height":358
+        },
+        {
+            "id":"1j","url":"https://28.media.tumblr.com/tumblr_lt95ovYgPG1r4xjo2o1_1280.jpg","width":500,"height":500
+        },
+        {
+            "id":"1q","url":"https://cdn2.thecatapi.com/images/1q.gif","width":500,"height":315
+        },
+        {
+            "id":"63","url":"https://cdn2.thecatapi.com/images/63.gif","width":489,"height":400
+        },
+        {
+            "id":"6c","url":"https://cdn2.thecatapi.com/images/6c.jpg","width":500,"height":521
+        },
+        {
+            "id":"5e8","url":"https://cdn2.thecatapi.com/images/5e8.jpg","width":596,"height":400
+        },
+        {
+            "id":"5gu","url":"https://cdn2.thecatapi.com/images/5gu.jpg","width":742,"height":500
+        },
+        {
+            "id":"5hq","url":"https://cdn2.thecatapi.com/images/5hq.jpg","width":640,"height":386
+        },
+        {
+            "id":"5i4","url":"https://cdn2.thecatapi.com/images/5i4.jpg","width":500,"height":500
+        },
+        {
+            "id":"5j7","url":"https://cdn2.thecatapi.com/images/5j7.jpg","width":634,"height":500
+        }
+    ]
+}

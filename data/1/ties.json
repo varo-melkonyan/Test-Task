@@ -1,0 +1,38 @@
+{
+    "categories": {
+        "id":7,
+        "name":"ties"
+    },
+    "breeds": [
+        {
+            "id":"t6","url":"https://cdn2.thecatapi.com/images/t6.gif","width":968,"height":1296
+        },
+        {
+            "id":"u0","url":"https://cdn2.thecatapi.com/images/u0.png","width":234,"height":319
+        },
+        {
+            "id":"ui","url":"https://cdn2.thecatapi.com/images/ui.jpg","width":400,"height":267
+        },
+        {
+            "id":"vk","url":"https://cdn2.thecatapi.com/images/vk.jpg","width":500,"height":667
+        },
+        {
+            "id":"10f","url":"https://cdn2.thecatapi.com/images/10f.jpg","width":333,"height":500
+        },
+        {
+            "id":"10h","url":"https://cdn2.thecatapi.com/images/10h.jpg","width":480,"height":640
+        },
+        {
+            "id":"11a","url":"https://cdn2.thecatapi.com/images/11a.jpg","width":500,"height":499
+        },
+        {
+            "id":"121","url":"https://cdn2.thecatapi.com/images/121.jpg","width":1125,"height":1500
+        },
+        {
+            "id":"12k","url":"https://cdn2.thecatapi.com/images/12k.jpg","width":250,"height":250
+        },
+        {
+            "id":"613","url":"https://cdn2.thecatapi.com/images/613.jpg","width":465,"height":700
+        }
+    ]
+}

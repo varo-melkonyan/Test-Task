@@ -1,0 +1,38 @@
+{
+    "categories": {
+        "id":15,
+        "name":"clothes"
+    },
+    "breeds": [
+        {
+            "id":"8vo","url":"https://cdn2.thecatapi.com/images/8vo.jpg","width":850,"height":567
+        },
+        {
+            "id":"8vs","url":"https://cdn2.thecatapi.com/images/8vs.jpg","width":720,"height":480
+        },
+        {
+            "id":"91s","url":"https://cdn2.thecatapi.com/images/91s.jpg","width":640,"height":427
+        },
+        {
+            "id":"935","url":"https://cdn2.thecatapi.com/images/935.jpg","width":500,"height":331
+        },
+        {
+            "id":"95l","url":"https://cdn2.thecatapi.com/images/95l.jpg","width":500,"height":333
+        },
+        {
+            "id":"96j","url":"https://cdn2.thecatapi.com/images/96j.jpg","width":325,"height":499
+        },
+        {
+            "id":"MTc5OTExMQ","url":"https://cdn2.thecatapi.com/images/MTc5OTExMQ.jpg","width":500,"height":333
+        },
+        {
+            "id":"MTc5OTc4Ng","url":"https://cdn2.thecatapi.com/images/MTc5OTc4Ng.jpg","width":770,"height":1090
+        },
+        {
+            "id":"MTgwMzM4MA","url":"https://cdn2.thecatapi.com/images/MTgwMzM4MA.jpg","width":500,"height":313
+        },
+        {
+            "id":"MTgwODMzNA","url":"https://cdn2.thecatapi.com/images/MTgwODMzNA.jpg","width":960,"height":720
+        }
+    ]
+}

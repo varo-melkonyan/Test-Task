@@ -1,0 +1,38 @@
+{
+    "categories": {
+        "id":4,
+        "name":"sunglasses"
+    },
+    "breeds": [
+        {
+            "id":"9q","url":"https://cdn2.thecatapi.com/images/9q.jpg","width":500,"height":375
+        },
+        {
+            "id":"a2","url":"https://cdn2.thecatapi.com/images/a2.jpg","width":500,"height":334
+        },
+        {
+            "id":"a5","url":"https://cdn2.thecatapi.com/images/a5.jpg","width":500,"height":375
+        },
+        {
+            "id":"ar","url":"https://cdn2.thecatapi.com/images/ar.jpg","width":715,"height":391
+        },
+        {
+            "id":"b8","url":"https://cdn2.thecatapi.com/images/b8.png","width":400,"height":307
+        },
+        {
+            "id":"bi","url":"https://cdn2.thecatapi.com/images/bi.jpg","width":500,"height":381
+        },
+        {
+            "id":"bo","url":"https://cdn2.thecatapi.com/images/bo.jpg","width":452,"height":480
+        },
+        {
+            "id":"155","url":"https://cdn2.thecatapi.com/images/155.jpg","width":500,"height":375
+        },
+        {
+            "id":"15l","url":"https://cdn2.thecatapi.com/images/15l.jpg","width":320,"height":350
+        },
+        {
+            "id":"15m","url":"https://cdn2.thecatapi.com/images/15m.jpg","width":500,"height":333
+        }
+    ]
+}
